@@ -1,0 +1,3 @@
+line one with trailing spaces   
+line two unix
+line three no newline at end   
