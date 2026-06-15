@@ -1,5 +1,0 @@
----
-name: broken-config
-items: [one, two
-settings:
-  retries: 3

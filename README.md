@@ -7,7 +7,7 @@ A small collection of Git hooks and pre-commit configuration.
 - `commit-msg/commit-pattern.sh` — commit-msg hook that requires a JIRA issue ID in the commit message (e.g. `JIRA-123 - initial commit`).
 - `.pre-commit-config.yaml` — [pre-commit](https://pre-commit.com) hooks: whitespace/newline fixers, YAML/JSON validation, `yamllint`, and `terraform_fmt`.
 - `.yamllint` — yamllint configuration.
-- `samples/` — sample YAML, JSON, and Terraform files used to validate the hooks (`samples/negative/` holds intentionally broken files for negative testing).
+- `samples/` — sample YAML, JSON, and Terraform files used to validate the hooks.
 
 ## Usage
 
