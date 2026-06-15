@@ -1,0 +1,9 @@
+---
+extends: default
+
+yaml-files:
+  - "!.terraform"
+
+rules:
+  line-length: disable
+  truthy: disable

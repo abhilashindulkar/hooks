@@ -1,0 +1,10 @@
+{
+  "name": "sample-data",
+  "version": 1,
+  "enabled": true,
+  "settings": {
+    "retries": 3,
+    "timeout": 30,
+    "tags": ["alpha", "beta", "gamma"]
+  }
+}
